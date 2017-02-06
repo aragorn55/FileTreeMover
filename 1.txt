@@ -1,0 +1,1 @@
+python3.6 filetreetui.py -m /media/joshua/Data11/media /media/joshua/Data11/media /media/joshua/Data11/media_type/@1/fffiletype .@1
